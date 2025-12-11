@@ -1,0 +1,5 @@
+{
+  "name": "SecureSet",
+  "description": "A secure and modern password reset interface with real-time strength validation and responsive design.",
+  "requestFramePermissions": []
+}
